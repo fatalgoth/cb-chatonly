@@ -1,0 +1,19 @@
+{
+  "name": "Chaturbate Chat Only",
+  "version": "1.2",
+  "description": "For when you only want the chat to appear in the broadcaster page",
+  "permissions": ["activeTab"],
+  "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+  "browser_action": {
+	"default_icon" : "icon-19.png",
+    "default_title": "Chaturbate Chat Only"
+  },
+  "icons" : {
+    "48" : "icon-48.png",
+    "128" : "icon-128.png"
+  },
+  "manifest_version": 2
+}
