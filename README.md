@@ -1,7 +1,7 @@
 # cb-chatonly
 Chrome extension to make the chat portion of chaturbate larger for broadcasters.
 
-![big ol chat](https://i.imgur.com/eqpdl2i.png)
+![big ol chat](https://i.imgur.com/PksujjC.png)
 
 ## Installation
 1. Open `chrome://extensions/` in a new tab.
