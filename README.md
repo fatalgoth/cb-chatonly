@@ -13,4 +13,4 @@ Chrome extension to make the chat portion of chaturbate larger for broadcasters.
 ## Usage
 A new icon ![icon](https://i.imgur.com/zpycq3A.png) will appear in the toolbar.
 Click it to make the chat nice and big.
-Refresh the screen to return things back to normal (I'll make the button a toggle soon).
+Click it again to refresh the tab back to normal.
