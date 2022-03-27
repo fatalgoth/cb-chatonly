@@ -9,8 +9,9 @@ function hideStuff(){
 
   root.insertBefore(gl,ol);
   gl.style.display = 'sticky';
-  el.style.width = '1px';
-  fl.style.margin = '0px 0px 0px 10px';
+  el.style.display = 'none';
+  el.style.width = '0px';
+  fl.style.margin = '0px 0px 0px 0px';
   c1.style.margin = '0px 0px 0px 2px';
 }
 hideStuff();
